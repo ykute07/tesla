@@ -20,9 +20,9 @@ function App() {                               //checking changes for github
           descLinks=''
           backgroundImg={SolarPanels}
           leftBtnText='ORDER NOW'
-          leftBtnLinks=''
+          leftBtnLinks='https://www.tesla.com/energy/design'
           rightBtnText='LEARN MORE'
-          rightBtnLinks=''
+          rightBtnLinks='https://www.tesla.com/solarpanels'
           twoButtons='true'
           first
         
@@ -34,9 +34,9 @@ function App() {                               //checking changes for github
           descLinks=''
           backgroundImg={ModelS}
           leftBtnText='CUSTOM ORDER'
-          leftBtnLinks=''
+          leftBtnLinks='https://www.tesla.com/models/design#overview'
           rightBtnText='LEARN MORE'
-          rightBtnLinks=''
+          rightBtnLinks='https://www.tesla.com/inventory/new/ms?arrangeby=relevance&zip=95113&range=200'
           twoButtons='true'
          
         />
@@ -46,9 +46,9 @@ function App() {                               //checking changes for github
           descLinks=''
           backgroundImg={Model3}
           leftBtnText='CUSTOM ORDER'
-          leftBtnLinks=''
+          leftBtnLinks='https://www.tesla.com/model3/design#overview'
           rightBtnText='LEARN MORE'
-          rightBtnLinks=''
+          rightBtnLinks='https://www.tesla.com/inventory/new/m3?arrangeby=relevance&zip=95113&range=200'
           twoButtons='true'
          
         />
@@ -58,21 +58,21 @@ function App() {                               //checking changes for github
           descLinks=''
           backgroundImg={ModelX}
           leftBtnText='CUSTOM ORDER'
-          leftBtnLinks=''
+          leftBtnLinks='https://www.tesla.com/modelx/design#overview'
           rightBtnText='LEARN MORE'
-          rightBtnLinks=''
+          rightBtnLinks='https://www.tesla.com/inventory/new/mx?arrangeby=relevance&zip=95113&range=200'
           twoButtons='true'
          
         />
         <Item 
-          title='Model X'
+          title='Model Y'
           desc='Money-back guarantee'
           descLinks=''
           backgroundImg={ModelY}
           leftBtnText='CUSTOM ORDER'
-          leftBtnLinks=''
+          leftBtnLinks='https://www.tesla.com/modely/design#overview'
           rightBtnText='LEARN MORE'
-          rightBtnLinks=''
+          rightBtnLinks='https://www.tesla.com/inventory/new/my?arrangeby=relevance&zip=95113&range=200'
           twoButtons='true'
          
         />
@@ -82,9 +82,9 @@ function App() {                               //checking changes for github
           descLinks=''
           backgroundImg={Accessories}
           leftBtnText='CUSTOM ORDER'
-          leftBtnLinks=''
+          leftBtnLinks='https://shop.tesla.com/?tesref=true'
           rightBtnText='LEARN MORE'
-          rightBtnLinks=''
+          rightBtnLinks='https://shop.tesla.com/?tesref=true'
           twoButtons='true'
          
         />
